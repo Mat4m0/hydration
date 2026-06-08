@@ -1,7 +1,10 @@
 <template>
   <UApp>
     <UHeader>HEADER</UHeader>
-    <LazyAccordion />
+
+    <main class="DemoPage">
+      <LazyAccordion />
+      <LazyTabs />
+    </main>
   </UApp>
 </template>
-  
